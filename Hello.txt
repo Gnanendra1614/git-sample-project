@@ -1,0 +1,1 @@
+i am practicing different python programs such as prime numbers,prefect number,palindrome numbers.
