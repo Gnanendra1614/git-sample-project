@@ -1,1 +1,3 @@
-python is a high level, interpreted  programming language. 
+python is a high level, interpreted  programming language.
+it is easy to learn.
+Learning python helps students to develop logical thinking. 
