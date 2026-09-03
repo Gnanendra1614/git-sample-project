@@ -1,3 +1,3 @@
-i am practicing different python programs such as prime numbers,prefect number,palindrome numbers.
+i am practicing different python programs such as prime numbers,palindrome numbers.
 
 
