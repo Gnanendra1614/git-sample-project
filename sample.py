@@ -1,5 +1,5 @@
 num=6
 if num%2==0:
-    print('even')
+    print('even number')
 else:
-    print('odd')
+    print('odd number')
